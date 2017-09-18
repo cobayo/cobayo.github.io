@@ -1,2 +1,3 @@
-[Yunas Project](https://cobayo.github.io/yunas)  
-[Yunas Core Sources](https://github.com/cobayo/yunas)  
+- [View Yunas Tutorial](https://cobayo.github.io/yunas)  
+
+- [View Yunas Project](https://github.com/cobayo/yunas)  
